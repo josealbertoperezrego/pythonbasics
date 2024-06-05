@@ -9,6 +9,7 @@ Precondición: se tomará como separador de palabras el carácter ESPACIO, ya se
 
 
 frase = input("Dame una frase: ")
+
 palabras = frase.split()
 
 
